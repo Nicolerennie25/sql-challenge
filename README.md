@@ -16,3 +16,6 @@ Entity Relationship Diagram (ERD):
 
 This ERD illustrates the relationships between different tables in the database schema. It helps in understanding the structure and connections between entities such as employees, departments, titles, salaries, and more.
 
+## Sources
+- BSC Learning Assistant
+- https://bootcampspot.instructure.com/courses/5229/pages/9-further-reading-and-helpful-links?module_item_id=1208407
