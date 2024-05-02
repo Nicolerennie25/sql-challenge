@@ -4,7 +4,7 @@ Pewlett Hackard SQL Challenge
 This repository contains files related to the Pewlett Hackard (a fictional company) SQL Challenge, which involves data modeling, data engineering, and data analysis tasks on employee data from the 1980s and 1990s.
 
 ## Files Included:
-## create_tables.sql: 
+## employees1980-1990.sql: 
 This file contains SQL queries to create the necessary tables for storing employee data, including employees, departments, titles, salaries, department managers, and department-employee relationships.
 ## import_data.sql: 
 Here, you'll find SQL commands to import data from CSV files into the corresponding database tables. Temporary tables are used to handle data conversions before inserting into the final tables.
